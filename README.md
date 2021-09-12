@@ -1,0 +1,2 @@
+#  EntropyMetrics
+This repository contains functions necessary to calucate entropy-based metrics from choice behavior. To get started, checkout the entropy_demo_notebook to see how the functions can be used for example data. 
